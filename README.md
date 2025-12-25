@@ -1,4 +1,4 @@
-<div align="center">
+**📍 Source:** <div align="center">
 
 # 🍌 Awesome Nano Banana Pro
 
@@ -268,7 +268,7 @@ Innovative and creative prompts that explore the cutting edge of AI capabilities
 
 ![Conceptual Visualization](https://promptimg.ionicerrrrscode.com/images/ym_9000021.jpg)
 
-**📍 Source:** replicate.com(https://replicate.com/)
+**📍 Source:** [replicate.com](https://replicate.com/)
 **📝 Description:** Interpretative rendering of how a specific group (engineers) visualizes a landmark.
 
 <details>
@@ -298,7 +298,7 @@ Build a 3d rubrix cube, have a button to mix that mixes it up and a button that 
 
 ![C4D-Style Finance App UI](https://promptimg.ionicerrrrscode.com/images/ym_958.jpg)
 
-**📍 Source:** jimeng.jianying.com(https://jimeng.jianying.com/ai-tool/work-detail/7551711790363675931?workDetailType=Image&itemType=9)
+**📍 Source:** [jimeng.jianying.com](https://jimeng.jianying.com/ai-tool/work-detail/7551711790363675931?workDetailType=Image&itemType=9)
 **📝 Description:** This prompt generates a modern 3D-style finance app UI with floating cards, glassmorphism buttons, and dynamic charts, great for UI designers seeking inspiration or showcasing concept designs.
 
 <details>
@@ -412,9 +412,9 @@ Build the github page of react
 
 ### 17. Informative Climate Change Seminar Poster
 ![Informative Climate Change Seminar Poster](https://promptimg.ionicerrrrscode.com/images/ym_1058.png)
-Source: @Jared Liu (https://x.com/jaredliu_bravo)
+**�� Source:** [@Jared Liu](https://x.com/jaredliu_bravo)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 An informative and engaging poster for a public seminar on climate change. The poster is designed as a mini-infographic, with a large, central graphic showing the earth with a thermometer, and smaller icons and data points around it explaining the causes and effects. The design is clean, organized, and aims to educate the viewer quickly and effectively. –ar 3:4
@@ -440,9 +440,9 @@ An exquisite, printable corporate holiday card design with a modern, minimalist 
 
 ### 19. Candid Night Portrait in a Parked Car
 ![Candid Night Portrait in a Parked Car](https://promptimg.ionicerrrrscode.com/images/ym_1985.jpg)
-Source: @Melisa♡ (https://x.com/xmliisu)
+**�� Source:** [@Melisa♡](https://x.com/xmliisu)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 { "image_generation_prompt": { "subject": "Woman", "setting": "Passenger seat of a parked car at night", "appearance": { "skin": "Warm white, natural textures", "hair": "Naturally textured short messy silver grey", "body_type": "Lean-athletic build", "features": "Vibrant tattoos vividly detailed, full lips, subtle masculine facial angles" }, "attire": [ "Simple cream short-sleeved shirt (fitted)", "Metal watch" ], "action": "Holding a lighter whose soft orange flame illuminates lips and fingertips", "lighting": "Direct flash, authentic iPhone-style lighting, soft orange flame illumination", "background": "Blurred city lights, soft neon reflections outside car window", "composition": "Eye-level, spontaneous, close-up", "mood": "Relaxed, vulnerable, raw, urban street-style energy, candid realism", "resolution": "1200x1200px" }, "original_text": "A candid close-up portrait of a Woman sittin
@@ -547,7 +547,7 @@ You are the studio makemepulse. Build me a website for AP. Think carefully and m
 
 ![3D Glass Wallet and Coins Icon](https://promptimg.ionicerrrrscode.com/images/ym_968.jpg)
 
-**📍 Source:** jimeng.jianying.com(https://jimeng.jianying.com/ai-tool/work-detail/7569196092471004454?workDetailType=Image&itemType=9)
+**📍 Source:** [jimeng.jianying.com](https://jimeng.jianying.com/ai-tool/work-detail/7569196092471004454?workDetailType=Image&itemType=9)
 **📝 Description:** This prompt generates a high-quality 3D glass-textured UI icon of a wallet filled with coins featuring a specific currency symbol, with a clear airy look and a strong sense of depth and breathing space.
 
 <details>
@@ -560,9 +560,9 @@ UI icon, a wallet filled with gold coins, a pile of gold coins, on the gold coin
 
 ### 25. Singing Birds on Holly Branch
 ![Singing Birds on Holly Branch](https://promptimg.ionicerrrrscode.com/images/ym_1740.png)
-Source: @Jared Liu (https://x.com/jaredliu_bravo)
+**�� Source:** [@Jared Liu](https://x.com/jaredliu_bravo)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plump garden birds (a robin, a blue tit, a sparrow, a goldfinch, a wren) are perched in a row on a snow-covered holly branch with red berries. Each bird wears a different miniature knitted winter hat (bobble hat, beanie, earflap hat) and they all have their beaks open as if singing. The style is a delicate watercolor and ink drawing on textured paper.
@@ -571,9 +571,9 @@ A cute and detailed printable Christmas card, aspect ratio 1:1.4. Five tiny, plu
 
 ### 26. Malaysian City Billboard Commercial Photography Prompt
 ![Malaysian City Billboard Commercial Photography Prompt](https://promptimg.ionicerrrrscode.com/images/ym_2755.jpg)
-Source: @swiftie 霉粉 (https://x.com/swiftie_hp)
+**�� Source:** [@swiftie 霉粉](https://x.com/swiftie_hp)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 A wide Malaysian city main road serves as the main subject. A huge billboard (billboard) stands on the upper right side of the screen, with its surface purely displaying the content of Image 1 (uploaded image), and the metal support structure is clearly visible. Typical Malaysian street scene buildings are distributed on both sides of the street, including low to mid-rise commercial shophouses, shops with awnings, and signs visible with a mix of English and Malay, creating an urban atmosphere. Tropical palm trees and greenery are planted along the road, and the overall environment presents the characteristics of a Southeast Asian tropical city. Multiple cars are driving on the road, including common Asian models, with obvious motion blur on the foreground vehicles to enhance the sense of dynamism. The overall scene is set as a daytime street view of a Malaysian city (such as Kuala Lumpur
@@ -706,9 +706,9 @@ A silly doodle of a cat wearing a tiny hat
 ### 34. Tulin's Twilight Quest: The Hunt for Lost Fairy Light
 ![Tulin's Twilight Quest: The Hunt for Lost Fairy Light](https://promptimg.ionicerrrrscode.com/posters/01fCVDGOQr.jpg)
 [Watch video](https://promptimg.ionicerrrrscode.com/videos/01fCVDGOQr.mp4)
-Source: IonicErrrrsCode
+**📍 Source:** IonicErrrrsCode
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 Tulin sets out to search for the stolen fairy light from the realm of fairies. In the distance, she spots a crumbling hut and cautiously makes her way toward it. Smoke curls from the chimney, and an ominous presence within tells her that an evil spirit awaits.
@@ -734,7 +734,7 @@ A high-fashion editorial portrait of a female model.
 
 ![Smart Crowd Removal](https://promptimg.ionicerrrrscode.com/images/ym_9000058.jpg)
 
-**📍 Source:** mp.weixin.qq.com(https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
+**📍 Source:** [mp.weixin.qq.com](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 **📝 Description:** Removes unwanted people from backgrounds and fills the space with logical textures.
 
 <details>
@@ -762,9 +762,9 @@ Create a parallax scrolling website with explosive visual effects: layered backg
 
 ### 38. Mechanical Design Sketch Notes
 ![Mechanical Design Sketch Notes](https://promptimg.ionicerrrrscode.com/images/ym_963.jpg)
-Source: jimeng.jianying.com (https://jimeng.jianying.com/ai-tool/work-detail/7569072924162788618?result=%E7%AC%94%E8%AE%B0&type=inspiration&keywordSource=search_history&wordPosition=&enterFrom=home&workDetailType=Image&itemType=9)
+**📍 Source:** [jimeng.jianying.com](https://jimeng.jianying.com/ai-tool/work-detail/7569072924162788618?result=%E7%AC%94%E8%AE%B0&type=inspiration&keywordSource=search_history&wordPosition=&enterFrom=home&workDetailType=Image&itemType=9)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 Black line sketch, Mechanical Design notes, dense note-style layout, accompanied by orthographic projections, dimensioning, name annotations, and Chinese-English label explanations.
@@ -788,9 +788,9 @@ A heartwarming printable Christmas card, aspect ratio 1:1.4. A large mother pola
 
 ### 40. 4-Panel Vintage Lifestyle Collage with Identity Lock
 ![4-Panel Vintage Lifestyle Collage with Identity Lock](https://promptimg.ionicerrrrscode.com/images/ym_2819.jpg)
-Source: @آیت شاہ (https://x.com/kashmir_ki_lark)
+**�� Source:** [@آیت شاہ](https://x.com/kashmir_ki_lark)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 { "image_prompt": { "reference": { "face_identity": "uploaded reference image", "identity_lock": true, "pose_lock": true, "camera_angle_lock": true, "expression_lock": true, "face_preservation": "100% identical facial structure, proportions, eyes, lips, nose, brows, skin texture" }, "composition": { "layout": "2x2 collage", "aspect_ratio": "1:1", "pose_matching": "exactly match reference image poses, angles, framing, and body orientation", "no_variation_allowed": true }, "panel_1": { "view": "front-facing portrait", "pose": "head slightly tilted, eyes toward camera, soft lips", "framing": "chest-up selfie angle", "expression": "calm, elegant", "match_reference": true }, "panel_2": { "view": "back view", "pose": "standing facing mirror, arms raised slightly", "focus": "back of head and bow hairstyle", "framing": "upper-body rear shot", "match_reference": true }, "panel_3": { "view": "mirr
@@ -817,9 +817,9 @@ The armor should show subtle signs of wear and tear—minor scuffs and scratches
 
 ### 42. Precision in the Meadow: A Heroine's Aim
 ![Precision in the Meadow: A Heroine's Aim](https://promptimg.ionicerrrrscode.com/images/I5s1WrtDZK.jpg)
-Source: IonicErrrrsCode
+**📍 Source:** IonicErrrrsCode
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 A highly detailed, cinematic fantasy portrait of a red-haired female archer standing in a lush green landscape. She is drawing a wooden longbow with a nocked arrow, aiming with intense focus. Her long, wavy red hair flows freely, partially braided on the sides.
@@ -858,9 +858,9 @@ Design a richly crafted voxel-art environment featuring an ornate pagoda set wit
 
 ### 45. Stadium Concert Atmosphere
 ![Stadium Concert Atmosphere](https://promptimg.ionicerrrrscode.com/images/ym_978.jpg)
-Source: @Leah (https://x.com/leahlibest)
+**�� Source:** [@Leah](https://x.com/leahlibest)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 Large stadium concert venue, golden confetti falling from the sky, female singer in the center of the spotlight beam, purple-blue gradient on the LED screen behind, ocean of audience phone lights creating a starry sea effect, stage fog machine creating a dreamlike atmosphere, concert photography telephoto lens compression 200mm, high ISO 3200 capturing motion, saturated night scene colors, Eras Tour visual style, 16:9 landscape composition
@@ -884,9 +884,9 @@ A beautiful, printable Christmas greeting card design, flat vector art style, wi
 
 ### 47. Festive Velvet Bodysuit Portrait with Bear Ears
 ![Festive Velvet Bodysuit Portrait with Bear Ears](https://promptimg.ionicerrrrscode.com/images/ym_2781_1.jpg)
-Source: @Dove 🕊️ (https://x.com/Lovie_dovie__)
+**�� Source:** [@Dove 🕊️](https://x.com/Lovie_dovie__)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 { "subject": { "description": "A young woman with long, wavy dark hair and a joyful expression, looking off-camera.", "features": ["Bright smile", "Rosy cheeks", "Tattoo on right thigh"], "pose": "Standing, one hand touching a fuzzy white hood, the other lightly holding a strand of hair." }, "attire": { "bodysuit": "Emerald green velvet bodysuit with a deep V-neckline, white faux-fur trim along the bust, and a white lace panel in the center with ruffled lace trim at the hips.", "outerwear": "Short, white, fuzzy sherpa-style hooded shrug with bear ears.", "accessories": ["Delicate silver necklace", "Matching emerald green thigh-high stockings"] }, "environment": { "setting": "Cozy indoor holiday-themed room at night.", "background_details": [ "Wooden door frames and glass windows", "Red and white reindeer-patterned holiday pillow", "Green potted plant to the right", "Warm, glowing wall sc
@@ -930,7 +930,7 @@ A dramatic black-and-white close-up portrait of a woman standing in the rain.
 
 ![3D Blind Box Style Avatar](https://promptimg.ionicerrrrscode.com/images/ym_9000065_1.jpg)
 
-**📍 Source:** mp.weixin.qq.com(https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
+**📍 Source:** [mp.weixin.qq.com](https://mp.weixin.qq.com/s/lrYNbs4rGs3KOqewoZ6aNQ)
 **📝 Description:** Converts portraits into cute, C4D-style "Pop Mart" toy characters.
 
 <details>
@@ -958,9 +958,9 @@ Generate a web application that introduces one traditional Chinese color each da
 
 ### 52. Amalfi Coast Lifestyle
 ![Amalfi Coast Lifestyle](https://promptimg.ionicerrrrscode.com/images/ym_976.jpg)
-Source: @Leah (https://x.com/leahlibest)
+**�� Source:** [@Leah](https://x.com/leahlibest)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 Elegant 30-year-old woman on a terrace of a villa in Amalfi, Italy, wearing off-white French linen dress flowing in the wind, soft golden hour lighting (Magic Hour), blurred Mediterranean blue seascape background, Leica M10 film color simulation, warm tone movie film texture (Kodak Portra 400), shallow depth of field 35mm humanist photography, high-grade grey palette, natural relaxed atmosphere
@@ -1062,9 +1062,9 @@ Please help me create a retro Polaroid-style camera web application. In the lowe
 
 ### 59. Global Deforestation Data Visualization
 ![Global Deforestation Data Visualization](https://promptimg.ionicerrrrscode.com/images/ym_1021.png)
-Source: @Jared Liu (https://x.com/jaredliu_bravo)
+**�� Source:** [@Jared Liu](https://x.com/jaredliu_bravo)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 A beautiful and informative data visualization for a report on global deforestation. The main visual could be a world map where countries are colored based on their rate of forest loss, or a series of stylized tree graphics where the number of leaves represents the remaining forest cover. The design should be impactful and emotionally resonant, not just a dry chart, demonstrating the ability to turn data into a compelling visual story. –ar 16:9
@@ -1073,9 +1073,9 @@ A beautiful and informative data visualization for a report on global deforestat
 
 ### 60. Christmas Raccoons · Sneaky Theft Frame
 ![Christmas Raccoons · Sneaky Theft Frame](https://promptimg.ionicerrrrscode.com/images/ym_1761.png)
-Source: @Jared Liu (https://x.com/jaredliu_bravo)
+**�� Source:** [@Jared Liu](https://x.com/jaredliu_bravo)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 A printable Christmas photo frame illustration designed exclusively as a standalone frame, in a vertical 1:1.4 aspect ratio, suitable for high-quality print. The illustration focuses only on the frame itself, with no external environment or background scene. The style is humorous animated storybook illustration with clean outlines and soft textures. At the exact center of the frame, reserve a blank photo placeholder area that is horizontally and vertically centered, with a 1:1.4 portrait aspect ratio and 70% of the total frame width, completely empty and untouched. The surrounding frame border features mischievous cartoon raccoons stealing ornaments, hiding candy canes, peeking from corners, and dangling upside down from garlands, creating a playful chaotic holiday vibe. Flat composition, print-friendly colors, no text.
@@ -1084,9 +1084,9 @@ A printable Christmas photo frame illustration designed exclusively as a standal
 
 ### 61. Four Hyper-Realistic Female Portrait Prompts
 ![Four Hyper-Realistic Female Portrait Prompts](https://promptimg.ionicerrrrscode.com/images/ym_1115_1.jpg)
-Source: @gemini_prompts (https://x.com/YeKyaHoRhaHaiBe)
+**�� Source:** [@gemini_prompts](https://x.com/YeKyaHoRhaHaiBe)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 Prompt 1: "A close-up, half-body mirror selfie of a young woman( match face) standing indoors. She is wearing a cozy, white, crew-neck sweater adorned with large, plush, red heart appliques scattered across the front and sleeves. She is also wearing light-wash blue denim jeans. Her hair is pulled up into a messy bun. She has a delicate gold necklace with a small pendant. The background is simple and bright, showing a neutral-toned wall and a doorway with a silver handle. Soft, natural lighting." Prompt 2: "Ultra-realistic high-detail indoor portrait of a beautiful woman - keep her real face, natural features, body proportions, and hair EXACTLY the same as the reference (no facial or body changes). She is wearing a soft lavender embroidered bodycon dress (updated wearing color), detailed stitching, elegant contours, and a refined luxury-fit silhouette. Natural soft makeup with smooth skin
@@ -1130,7 +1130,7 @@ Ultra-photorealistic 4K cinematic portrait of a person surrounded by thick rolli
 
 ![Literal Interpretation](https://promptimg.ionicerrrrscode.com/images/ym_9000022.jpg)
 
-**📍 Source:** replicate.com(https://replicate.com/)
+**📍 Source:** [replicate.com](https://replicate.com/)
 **📝 Description:** Interprets a filename as a visual subject.
 
 <details>
@@ -1173,9 +1173,9 @@ A photo of a beautifully decorated, light-filled reading nook in a home. The noo
 
 ### 67. Whimsical Hedgehog Christmas Card
 ![Whimsical Hedgehog Christmas Card](https://promptimg.ionicerrrrscode.com/images/ym_1735.png)
-Source: @Jared Liu (https://x.com/jaredliu_bravo)
+**�� Source:** [@Jared Liu](https://x.com/jaredliu_bravo)
 <details>
-<summary><b>Prompt</b></summary>
+<summary><b>🎯 View Prompt</b></summary>
 
 ```text
 A whimsical printable Christmas card illustration, aspect ratio 1:1.4. A small, round hedgehog is curled up into a ball on a clean cream background. Its spines are hilariously covered with tiny, colorful Christmas baubles, miniature candy canes, and bits of shiny tinsel that have gotten stuck to them. The hedgehog has a slightly confused but happy expression, with one eye peeking out. The style is a gentle watercolor painting with soft textures.
