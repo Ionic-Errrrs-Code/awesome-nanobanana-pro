@@ -1,0 +1,13 @@
+name = "prompt-base"
+main = "src/index.tsx"
+compatibility_date = "2025-12-31"
+
+[site]
+bucket = "./public"
+
+[observability]
+[observability.logs]
+enabled = true
+head_sampling_rate = 1
+invocation_logs = true
+persist = true

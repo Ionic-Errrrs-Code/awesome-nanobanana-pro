@@ -1,0 +1,19 @@
+{
+  "name": "prompt-base",
+  "version": "1.0.0",
+  "description": "Beautiful Prompt Base website for browsing AI-generated image and video prompts",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "build": "wrangler deploy --dry-run",
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "hono": "^4.6.0"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20241127.0",
+    "typescript": "^5.5.0",
+    "wrangler": "^3.90.0"
+  }
+}
