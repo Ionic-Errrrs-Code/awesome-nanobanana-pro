@@ -45,9 +45,9 @@ Welcome to **Awesome Nano Banana Pro** — a comprehensive, meticulously curated
 
 <div align="center">
 
-| 📚 Total Prompts | 🎨 Categories | 🌍 Sources | 🔄 Last Updated |
+| 📚 Total Prompts | 🎨 Tags | 🌍 Sources | 🔄 Last Updated |
 |:----------------:|:-------------:|:----------:|:---------------:|
-| **1000+** | **6+** | **Global** | **Dec 2025** |
+| **10,000+** | **109+** | **Global** | **Jan 2026** |
 
 </div> 
 ---
@@ -57,12 +57,6 @@ Welcome to **Awesome Nano Banana Pro** — a comprehensive, meticulously curated
 - [🚀 Quick Start](#-quick-start)
 - [📚 Prompt Collections](#-prompt-collections)
 - [🎨 Featured Collections](#-featured-collections)
-  - [Portrait Photography](#portrait-photography)
-  - [UI/UX & Web Development](#uiux--web-development)
-  - [Marketing & Design](#marketing--design)
-  - [3D & Animation](#3d--animation)
-  - [Seasonal & Holiday](#seasonal--holiday)
-  - [Conceptual & Experimental](#conceptual--experimental)
 - [📱 PromptBase App](#-promptbase-app)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
