@@ -24,7 +24,7 @@ Welcome to **Awesome Nano Banana Pro** — a comprehensive, meticulously curated
 - **🏆 Premium Quality**: Every prompt has been tested and validated for optimal results
 - **🌐 Diverse Sources**: Aggregated from NanoBanana Pro, GEMINI 3 PRO, Seedream 4.5, and exclusive collections
 - **👥 Community-Driven**: Sourced from top prompt engineers on X (Twitter), WeChat, Replicate, and beyond
-- **📚 Extensive Library**: 80+ professionally crafted prompts spanning multiple categories
+- **📚 Extensive Library**: 10000+ professionally crafted prompts spanning multiple categories
 - **🎨 Real Examples**: Each prompt includes actual output samples for reference
 - **🔄 Regular Updates**: Continuously updated with the latest techniques and discoveries
 
